@@ -14,7 +14,7 @@ if not api_key:
 # --- App ---
 st.set_page_config(page_title="Comps Valuation - Alpha Vantage", layout="wide")
 st.title("Comparable Company Valuation")
-st.caption("Using Alpha Vantage • Andrew Syropiatov - syropiatov@bluestoneib.com")
+st.caption("Using Alpha Vantage • By sir.andrew @ me.com")
 
 # Target Company Input
 st.subheader("Target Company (Manual Input)")
