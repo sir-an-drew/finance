@@ -5,7 +5,7 @@ import numpy as np
 
 st.set_page_config(page_title="Comps Valuation", layout="wide")
 st.title("Comparable Company Valuation")
-st.caption("Using Yahoo Finance API yfinance | Andrew Syropiatov - syropiatov@bluestoneib.com")
+st.caption("Using Yahoo Finance API yfinance | By sir.andrew @ me.com")
 
 # Input fields
 st.subheader("Target Company (Manual Input)")
